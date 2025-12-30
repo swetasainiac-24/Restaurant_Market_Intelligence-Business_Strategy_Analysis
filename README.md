@@ -15,7 +15,8 @@ New entrepreneurs and investors often struggle to decide between Budget, Mid-Ran
 **Segment Analysis:** Comparative study of Budget vs. Premium market performance.
 
 **Strategic Visualization:** Advanced bubble charts to visualize three dimensions of data: Cost, Popularity, and Market Volume.
-**
+
+
 **Core Insights****
 
 The Mid-Range Opportunity: Analysis indicates that the ₹500 - ₹800 segment yields the highest customer engagement relative to investment.
